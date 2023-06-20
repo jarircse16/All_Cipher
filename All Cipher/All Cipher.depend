@@ -1,0 +1,190 @@
+# depslib dependency file v1.0
+1687301214 source:f:\__oprecovery\8th semester pias vai\2022\cse 4201\all cipher\main.cpp
+	<iostream>
+	<string>
+	<cctype>
+	<openssl/aes.h>
+	<openssl/rand.h>
+
+1685452550 c:\program files (x86)\openssl-win32\include\openssl\aes.h
+	<openssl/macros.h>
+	<openssl/opensslconf.h>
+	<stddef.h>
+
+1685452550 c:\program files (x86)\openssl-win32\include\openssl\macros.h
+	<openssl/opensslconf.h>
+	<openssl/opensslv.h>
+
+1685452550 c:\program files (x86)\openssl-win32\include\openssl\opensslconf.h
+	<openssl/configuration.h>
+	<openssl/macros.h>
+
+1685452550 c:\program files (x86)\openssl-win32\include\openssl\configuration.h
+
+1685452550 c:\program files (x86)\openssl-win32\include\openssl\opensslv.h
+	<openssl/macros.h>
+
+1685452550 c:\program files (x86)\openssl-win32\include\openssl\rand.h
+	<openssl/macros.h>
+	<stdlib.h>
+	<openssl/types.h>
+	<openssl/e_os2.h>
+	<openssl/randerr.h>
+	<openssl/evp.h>
+
+1685452550 c:\program files (x86)\openssl-win32\include\openssl\types.h
+	<limits.h>
+	<openssl/e_os2.h>
+	<openssl/safestack.h>
+	<openssl/macros.h>
+
+1685452550 c:\program files (x86)\openssl-win32\include\openssl\e_os2.h
+	<openssl/macros.h>
+	<openssl/opensslconf.h>
+	<strings.h>
+	<spthread.h>
+	<pthread.h>
+	<inttypes.h>
+	<stdint.h>
+	<sys/types.h>
+	<stdint.h>
+
+1685452550 c:\program files (x86)\openssl-win32\include\openssl\safestack.h
+	<openssl/macros.h>
+	<openssl/stack.h>
+	<openssl/e_os2.h>
+
+1685452550 c:\program files (x86)\openssl-win32\include\openssl\stack.h
+	<openssl/macros.h>
+
+1685452550 c:\program files (x86)\openssl-win32\include\openssl\randerr.h
+	<openssl/opensslconf.h>
+	<openssl/symhacks.h>
+	<openssl/cryptoerr_legacy.h>
+
+1685452550 c:\program files (x86)\openssl-win32\include\openssl\symhacks.h
+	<openssl/macros.h>
+	<openssl/e_os2.h>
+
+1685452550 c:\program files (x86)\openssl-win32\include\openssl\cryptoerr_legacy.h
+	<openssl/macros.h>
+	<openssl/symhacks.h>
+
+1685452550 c:\program files (x86)\openssl-win32\include\openssl\evp.h
+	<openssl/macros.h>
+	<stdarg.h>
+	<stdio.h>
+	<openssl/opensslconf.h>
+	<openssl/types.h>
+	<openssl/core.h>
+	<openssl/core_dispatch.h>
+	<openssl/symhacks.h>
+	<openssl/bio.h>
+	<openssl/evperr.h>
+	<openssl/params.h>
+	<openssl/objects.h>
+
+1685452550 c:\program files (x86)\openssl-win32\include\openssl\core.h
+	<stddef.h>
+	<openssl/types.h>
+
+1685452550 c:\program files (x86)\openssl-win32\include\openssl\core_dispatch.h
+	<stdarg.h>
+	<openssl/core.h>
+
+1685452550 c:\program files (x86)\openssl-win32\include\openssl\bio.h
+	<openssl/macros.h>
+	<openssl/e_os2.h>
+	<stdio.h>
+	<stdarg.h>
+	<openssl/crypto.h>
+	<openssl/bioerr.h>
+	<openssl/core.h>
+
+1685452550 c:\program files (x86)\openssl-win32\include\openssl\crypto.h
+	<openssl/macros.h>
+	<stdlib.h>
+	<time.h>
+	<openssl/e_os2.h>
+	<stdio.h>
+	<openssl/safestack.h>
+	<openssl/opensslv.h>
+	<openssl/types.h>
+	<openssl/opensslconf.h>
+	<openssl/cryptoerr.h>
+	<openssl/core.h>
+	<openssl/ebcdic.h>
+	<openssl/symhacks.h>
+	<openssl/opensslv.h>
+	<spthread.h>
+	<pthread.h>
+
+1685452550 c:\program files (x86)\openssl-win32\include\openssl\cryptoerr.h
+	<openssl/opensslconf.h>
+	<openssl/symhacks.h>
+	<openssl/cryptoerr_legacy.h>
+
+1685452550 c:\program files (x86)\openssl-win32\include\openssl\ebcdic.h
+	<openssl/macros.h>
+	<stdlib.h>
+
+1685452550 c:\program files (x86)\openssl-win32\include\openssl\bioerr.h
+	<openssl/opensslconf.h>
+	<openssl/symhacks.h>
+	<openssl/cryptoerr_legacy.h>
+
+1685452550 c:\program files (x86)\openssl-win32\include\openssl\evperr.h
+	<openssl/opensslconf.h>
+	<openssl/symhacks.h>
+	<openssl/cryptoerr_legacy.h>
+
+1685452550 c:\program files (x86)\openssl-win32\include\openssl\params.h
+	<openssl/core.h>
+	<openssl/bn.h>
+
+1685452550 c:\program files (x86)\openssl-win32\include\openssl\bn.h
+	<openssl/macros.h>
+	<openssl/e_os2.h>
+	<stdio.h>
+	<openssl/opensslconf.h>
+	<openssl/types.h>
+	<openssl/crypto.h>
+	<openssl/bnerr.h>
+
+1685452550 c:\program files (x86)\openssl-win32\include\openssl\bnerr.h
+	<openssl/opensslconf.h>
+	<openssl/symhacks.h>
+	<openssl/cryptoerr_legacy.h>
+
+1685452550 c:\program files (x86)\openssl-win32\include\openssl\objects.h
+	<openssl/macros.h>
+	<openssl/obj_mac.h>
+	<openssl/bio.h>
+	<openssl/asn1.h>
+	<openssl/objectserr.h>
+
+1685452550 c:\program files (x86)\openssl-win32\include\openssl\obj_mac.h
+
+1685452550 c:\program files (x86)\openssl-win32\include\openssl\asn1.h
+	<openssl/macros.h>
+	<stdio.h>
+	<time.h>
+	<openssl/e_os2.h>
+	<openssl/opensslconf.h>
+	<openssl/bio.h>
+	<openssl/safestack.h>
+	<openssl/asn1err.h>
+	<openssl/symhacks.h>
+	<openssl/types.h>
+	<openssl/bn.h>
+
+1685452550 c:\program files (x86)\openssl-win32\include\openssl\asn1err.h
+	<openssl/opensslconf.h>
+	<openssl/symhacks.h>
+	<openssl/cryptoerr_legacy.h>
+
+1685452550 c:\program files (x86)\openssl-win32\include\openssl\objectserr.h
+	<openssl/opensslconf.h>
+	<openssl/symhacks.h>
+	<openssl/cryptoerr_legacy.h>
+

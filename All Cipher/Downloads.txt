@@ -1,0 +1,22 @@
+1. Download this https://slproweb.com/download/Win32OpenSSL-3_1_1.exe
+
+2. Install in C:\Program Files (x86)\OpenSSL-Win32
+
+3. Open Codeblocks
+
+4. Make a Console Project
+
+5. https://www.youtube.com/watch?v=fcZFaiGFIMA see this video of SFML and similarly add folders to codeblocks. 
+Project Name -> 
+Linker Settings -> Link Libraries OpenSSL-win32\lib\MinGW\*.*
+Search Directories -> Compiler - OpenSSL-win32\include
+Search Directories -> Linker -> Compiler - OpenSSL-win32\lib
+
+Debug -> 
+Linker Settings -> Link Libraries OpenSSL-win32\lib\MinGW\*.*
+
+6. Download libcrypto.dll and copy to C:\Windows\System32 and ProjectName\Bin\Debug
+
+7. Open CMD as ADMIN and type regsvr32 C:\Windows\System32\libcrypto.dll
+
+Enjoy Coding. 
